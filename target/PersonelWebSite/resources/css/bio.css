@@ -1,0 +1,22 @@
+
+body{
+    background-color: black;
+    color: #cecaff;
+
+}
+
+.bio-container{
+
+    display: block;
+
+
+}
+
+.resume-container{
+
+display: block;
+
+}
+.resume-container div{
+    display: block;
+}

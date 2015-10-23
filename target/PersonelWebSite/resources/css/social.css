@@ -1,0 +1,15 @@
+body{
+    background-color: aliceblue;
+}
+
+.social-container{
+
+ display: inline-block;
+
+}
+
+.social-container div{
+
+display: block;
+
+}

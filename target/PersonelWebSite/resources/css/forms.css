@@ -1,0 +1,87 @@
+
+body{
+    background-color: aliceblue;
+}
+
+
+
+
+
+.social-form{
+
+    background-color: #cecaff;
+    display:inline-block;
+
+}
+
+
+.resume-form{
+
+    background-color: #cecaff;
+
+    display: inline-block;
+
+}
+
+.social-form input[type="text"]{
+  width: 250px;
+    margin: 5px;
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.social-form input[type="submit"],.resume-form input[type="submit"]{
+
+    margin: 5px;
+    display: block;
+
+}
+
+.formItem{
+    width: 500px;
+    margin: 5px;
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.formItem textarea{
+    width: 250px;
+    margin: 5px;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.formItem input{
+    width: 250px;
+    margin: 5px;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.formItem *{
+    vertical-align: middle;
+}
+
+
+.social-form h2{
+    color: firebrick;
+    margin: 5px;
+    display: block;
+}
+
+
+
+.resume-form h2{
+    color: firebrick;
+    margin: 5px;
+    display: block;
+}
