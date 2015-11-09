@@ -13,7 +13,7 @@ import java.util.HashMap;
  */
 public class InfoWorker {
 
-    public static volatile InfoWorker instance;
+    private static volatile InfoWorker instance;
 
 
     public InfoWorker()  {
